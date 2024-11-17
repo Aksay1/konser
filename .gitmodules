@@ -1,0 +1,3 @@
+[submodule "vendor/midtrans/midtrans-php"]
+	path = vendor/midtrans/midtrans-php
+	url = https://github.com/Aksay1/konser.git
